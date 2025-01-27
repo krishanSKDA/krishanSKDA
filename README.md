@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%"  />
 <p align="center" style="margin: 20px; padding: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=krishanSKDA&label=Profile%20views&color=0e75b6&style=flat-square" alt="krishanSKDA_profileviews" width="30%" height="40%" />
+  <img src="https://komarev.com/ghpvc/?username=krishanSKDA&label=Profile%20views&color=0e75b6&style=flat-square" alt="krishanSKDA_profileviews" width="10%" height="10%" />
 </p>
 
 
@@ -88,9 +88,3 @@ I-am-KrishanSKDA@github
   
 </p>
 
-##
-<img align="center" height="300" src=" https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc4bzl6NnFlNGdhNWI3ZjJpYjFxZWtrMjF0aWN2a3FiOXMweW44ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7TRTJn6ZFzz14E7Qp/giphy.gif"  />
-
-
-
->>>>>>> 61b41b4 (Readme)
