@@ -1,9 +1,10 @@
 <p align="left" style="margin: 5 px;">
+  
   <img src="https://komarev.com/ghpvc/?username=krishanSKDA&label=Profile%20views&color=0e75b6&style=flat-square" alt="krishanSKDA_profileviews" width="10%" height="10%" />
 </p>
 <img src="banner_github.png" alt="GitHub Banner" width="100%"  />
 
-# Hello World!,I'm Krishan Danushka a Full Stack Developer 👋🏼:
+# Hello World!,I'm Krishan Danushka a Full Stack Developer 👋🏼: 
 
 <img align="left" src="developer.png" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="300" />
 
@@ -26,7 +27,7 @@
 
 # 📊 GitHub Status:
 <div align="center">
-  <img align="right" src="image.png" alt="image" width="180"  />
+ 
   <table>
     <tr>
       <!-- GitHub Stats -->
@@ -54,4 +55,4 @@
 #
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krishanSKDA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+#
