@@ -12,15 +12,15 @@
 
 # About Me
 
-I-am-KrishanSKDA@github
-💻 I am a passionate Full Stack Developer and aspiring Machine Learning & AI Engineer
-📚 I am a 3rd-year Software Engineering student at Staffordshire University, England
-📝 I have a strong interest in Full Stack Technologies, Artificial Intelligence, and Machine Learning
-🔭 Currently working on Machine Learning ,Web Development and Mobile App Development
-🌱 Learning about Computer Vision, Full Stack Technologhies, and AI tools
-🚩 Interested in building user-centric applications and innovative AI-powered solutions
-💖 In a committed relationship with Neural Networks and cutting-edge technologies
-🎵 Love rap and old songs
+ -I-am-KrishanSKDA@github
+-💻 I am a passionate Full Stack Developer and aspiring Machine Learning & AI Engineer
+-📚 I am a 3rd-year Software Engineering student at Staffordshire University, England
+-📝 I have a strong interest in Full Stack Technologies, Artificial Intelligence, and Machine Learning
+-🔭 Currently working on Machine Learning ,Web Development and Mobile App Development
+-🌱 Learning about Computer Vision, Full Stack Technologhies, and AI tools
+-🚩 Interested in building user-centric applications and innovative AI-powered solutions
+-💖 In a committed relationship with Neural Networks and cutting-edge technologies
+-🎵 Love rap and old songs
 <hr>
 
 # 💻 Tech Stack:
