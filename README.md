@@ -51,8 +51,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishanSKDA/krishanSKDA/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/krishanSKDA/krishanSKDA/output/github-snake.svg" />
 </picture>
-
-#
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krishanSKDA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-#
