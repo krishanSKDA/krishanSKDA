@@ -1,8 +1,7 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%"  />
-<p align="center" style="margin: 5 px;">
+<p align="left" style="margin: 5 px;">
   <img src="https://komarev.com/ghpvc/?username=krishanSKDA&label=Profile%20views&color=0e75b6&style=flat-square" alt="krishanSKDA_profileviews" width="10%" height="10%" />
 </p>
-
+<img src="banner_github.png" alt="GitHub Banner" width="100%"  />
 
 # Hello World!,I'm Krishan Danushka a Full Stack Developer 👋🏼:
 
@@ -27,6 +26,7 @@
 
 # 📊 GitHub Status:
 <div align="center">
+  <img align="right" src="image.png" alt="image" width="180"  />
   <table>
     <tr>
       <!-- GitHub Stats -->
@@ -38,13 +38,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanSKDA&layout=compact&theme=dracula&hide_border=false" 
         height="200" width="500" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <!-- GitHub Streak -->
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishanSKDA&theme=dracula&hide_border=false" 
-        alt="GitHub Streak" width="840" height="200" />
       </td>
     </tr>
   </table>
