@@ -62,15 +62,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krishanSKDA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Contact Me...
-
-<p align="center" >
-  <!-- Social Links -->
-  <a href="https://www.linkedin.com/in/krishan-danushka-aberathna-5b8a9a2b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kdanushka917@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img align="right" src="image.png" alt="image" width="180"  />
-</p>
