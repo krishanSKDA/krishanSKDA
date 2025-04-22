@@ -4,7 +4,7 @@
 </p>
 <img src="banner_github.png" alt="GitHub Banner" width="100%"  />
 
-# Hello World!,I'm Krishan Danushka a Full Stack Developer 👋🏼: 
+# I'm Krishan Danushka a Full Stack Developer 👋🏼: 
 
 <img align="left" src="developer.png" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="300" />
 
