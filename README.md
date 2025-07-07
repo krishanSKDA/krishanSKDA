@@ -93,10 +93,7 @@
   </table>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishanSKDA&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+
 
 ## 🤝 Let's Connect!
 
