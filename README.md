@@ -85,12 +85,6 @@
         height="200" width="500" alt="Top Languages" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishanSKDA&theme=dracula&hide_border=false" 
-        alt="GitHub Streak" width="600" />
-      </td>
-    </tr>
   </table>
 </div>
 
