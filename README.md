@@ -13,8 +13,7 @@
 
 - 🤖 **AI/ML Engineer** building LLM-powered apps, RAG pipelines, and agentic AI systems
 - 🦾 **Edge AI Specialist** — deploying models on Raspberry Pi, NVIDIA Jetson Orin Nano & DGX Spark
-- 🎓 **BEng (Hons) Software Engineering** graduate from Staffordshire University, England (2:1 | GPA 3.6/4.0)
-- 🔭 **Currently working on:** Autonomous UAV flight systems with MAVLink at AbsolX Core AI
+- 🎓 **BEng (Hons) Software Engineering** graduate from Staffordshire University, England
 - 🧠 **Core focus:** Agentic AI, computer vision, MLOps pipelines, and intelligent full-stack platforms
 - 🛸 **Side interests:** FPV drones, photography, and stock trading on the Colombo Stock Exchange
 - 🎵 **Fun fact:** Love rap music and classic hits
@@ -80,7 +79,7 @@
 |---|---|---|
 | 🛸 **Autonomous UAV Flight System** | MAVLink, PX4, ROS2, NVIDIA Jetson | Real-time telemetry & autonomous waypoint navigation |
 | 🤖 **Buddy AI Agent** | FastAPI, Flutter, React, WebSocket, Firebase | Production conversational AI with real-time STT |
-| 🐘 **HECGuard** | YOLOv8, Raspberry Pi 4, FastAPI, React Native | 93–94% mAP elephant detection — IEEE published |
+| 🐘 **HECGuard** | YOLOv8, Raspberry Pi 4, FastAPI, React Native | 93–94% mAP elephant detection  |
 | 🔍 **GeoIntel OSINT Platform** | CesiumJS, FastAPI, WebSocket | Real-time geospatial intelligence (Google Earth × Palantir) |
 | 🎨 **AI Criminal Sketch System** | ComfyUI, FastAPI, React, PostgreSQL | Forensic AI tool for suspect sketch generation |
 | ⚙️ **MLOps Pipeline** | Kubernetes, MLflow, ArgoCD, Prometheus/Grafana | Production-grade ML infrastructure on Minikube |
