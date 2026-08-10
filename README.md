@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🤖 **AI/ML Engineer** building LLM-powered apps, RAG pipelines, and agentic AI systems
-- 🦾 **Edge AI Specialist** — deploying models on Raspberry Pi, NVIDIA Jetson Orin Nano & DGX Spark
+- 🦾 **Edge AI Specialist** - deploying models on Raspberry Pi, NVIDIA Jetson Orin Nano & DGX Spark
 - 🎓 **BEng (Hons) Software Engineering** graduate from Staffordshire University, England
 - 🧠 **Core focus:** Agentic AI, computer vision, MLOps pipelines, and intelligent full-stack platforms
 - 🛸 **Side interests:** FPV drones, photography, and stock trading on the Colombo Stock Exchange
