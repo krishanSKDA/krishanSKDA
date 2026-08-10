@@ -84,23 +84,6 @@
 | 🎨 **AI Criminal Sketch System** | ComfyUI, FastAPI, React, PostgreSQL | Forensic AI tool for suspect sketch generation |
 | ⚙️ **MLOps Pipeline** | Kubernetes, MLflow, ArgoCD, Prometheus/Grafana | Production-grade ML infrastructure on Minikube |
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=krishanSKDA&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" 
-        height="200" width="400" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanSKDA&layout=compact&theme=dracula&hide_border=false" 
-        height="200" width="500" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
