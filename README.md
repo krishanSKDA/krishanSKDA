@@ -1,4 +1,4 @@
-<p align="left" style="margin: 5px;">
+k<p align="left" style="margin: 5px;">
   <img src="https://komarev.com/ghpvc/?username=krishanSKDA&label=Profile%20views&color=0e75b6&style=flat-square" alt="krishanSKDA_profileviews" width="10%" height="10%" />
 </p>
 
@@ -89,7 +89,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-danushka-aberathna/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://krishandanushka.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://krishan-danushka.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdanushka917@gmail.com)
 
 </div>
