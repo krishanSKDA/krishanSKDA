@@ -1,11 +1,11 @@
-k<p align="left" style="margin: 5px;">
+<p align="left" style="margin: 5px;">
   <img src="https://komarev.com/ghpvc/?username=krishanSKDA&label=Profile%20views&color=0e75b6&style=flat-square" alt="krishanSKDA_profileviews" width="10%" height="10%" />
 </p>
 
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hi there! I'm Krishan Danushka 👋🏼
-### AI/ML Engineer & Full-Stack Developer | Software Engineering Graduate
+### AI/ML Engineer & Full-Stack Developer |
 
 <img align="right" src="developer.png" alt="Developer illustration" width="350" />
 
